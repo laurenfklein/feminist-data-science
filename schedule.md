@@ -21,7 +21,7 @@
 	* Combahee River Collective, [Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html)
 	* Cathy O’Neil, “Civilian Casualties” (Canvas)
 
-1/23 – Web Scraping
+1/23 – Feminism
 
 * **HW 1 Due:** Positionality statement
 * In class: intersectional survival analysis exercise
