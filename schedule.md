@@ -10,7 +10,7 @@
 	* Install [Anaconda](https://www.anaconda.com/distribution/#download-section) <-- You want the Python 3.7 version
 	* Work through this [intro to Jupyter](notebooks/hw0-jupyter-intro.ipynb) notebook and these and these intro to Python notebooks: [counting](notebooks/counting.ipynb), [expressions and strings](notebooks/expressions-and-strings.ipynb), [lists](notebooks/lists.ipynb), and [dictionaries, sets, and tuples](notebooks/dictionaries-sets-tuples.ipynb)  
 
-* In class: job applicant screening exercise 
+* In class: job applicant screening exercise ([notebook](notebooks/lab1-hiring/Hiring-Filter-inclass.ipynb) and [data](notebooks/lab1-hiring/allApps.ipynb)) 
 
 ### Unit 1: Data, Feminism, and Power
 
