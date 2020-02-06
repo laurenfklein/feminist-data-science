@@ -24,7 +24,7 @@
 1/23 – Feminism
 
 * **HW 1 Due:** Positionality statement
-* In class: intersectional survival analysis exercise
+* In class: intersectional survival analysis exercise ([notebook](notebooks/lab2-survival/lab2-survival-inclass.ipynb) and [data](notebooks/lab2-survival/titanic_data/)) 
 
 1/28 – Power
 
@@ -43,7 +43,7 @@
 2/4 - Power
 
 * **HW 2 Due**: On discriminatory AI
-* In class: Replication of COMPAS audit
+* In class: Replication of COMPAS audit ([notebook](notebooks/lab3-compas/lab3-compas-inclass.ipynb) and [data](notebooks/lab3-compas/data/)) 
 
 2/6 - Power
 
