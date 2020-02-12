@@ -77,7 +77,7 @@
 * Read:
 	* D’Ignazio and Klein, Data Feminism, ch 4 (pp. 97-124) (Canvas)
 	* Sasha Costanza-Chock, “[Design Justice, AI, and Escape from the Matrix of Domination](https://jods.mitpress.mit.edu/pub/costanza-chock)” 
-	* Mar Hicks, “Hacking the Cis-Tem” (Canvas) 
+	* Os Keyes, “Misgendering Machines” (Canvas) 
 
 2/27 – Binaries and Hierarchies
 
