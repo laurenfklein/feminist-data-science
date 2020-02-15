@@ -66,7 +66,8 @@
 
 2/18 – Emotion and Embodiment
 
-* In class: data visceralizaiton exercise (led by Sarah Schoemann, Georgia Tech)
+* Before class: download and install BOTH the [Arduino IDE](https://www.arduino.cc/en/main/software) and the [Processing IDE](https://processing.org/download/)
+* In class: data visceralizaiton exercise (led by Sarah Schoemann, Georgia Tech) [lab files](notebooks/lab5-visceralization) and, if you're curious, [more on sentiment analysis](https://github.com/laurenfklein/emory-qtm340/blob/master/notebooks/class8-sentiment-analysis-complete.ipynb) 
 
 2/20 – No class meeting. Dr. Klein at UCLA.
 
